@@ -39,7 +39,7 @@
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
-    <Optimize>true</Optimize>
+    <Optimize>false</Optimize>
     <OutputPath>Bin\Release</OutputPath>
     <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
     <NoStdLib>true</NoStdLib>
@@ -141,6 +141,11 @@
     <None Include="Properties\WMAppManifest.xml">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Puffer_2013_04_04_00_10_22.sap" />
+    <None Include="Puffer_2013_04_04_00_17_51.sap" />
+    <None Include="Puffer_2013_04_04_00_18_59.sap" />
+    <None Include="Puffer_2013_04_04_00_21_10.sap" />
+    <None Include="Puffer_2013_04_04_00_25_21.sap" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\AlignmentGrid.png" />

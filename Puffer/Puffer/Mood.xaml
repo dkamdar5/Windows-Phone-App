@@ -15,11 +15,12 @@
 
     <!--LayoutRoot is the root grid where all page content is placed-->
     <Grid x:Name="LayoutRoot" Background="Transparent">
+        
         <Image x:Name="backgroundPuffer" HorizontalAlignment="Left" Height="603" Margin="12,165,0,0" VerticalAlignment="Top" Width="456" Source="/Assets/Colors/Puffer1.png" Loaded="InitializePuffer"/>
         <Image x:Name="backgroundClothing" HorizontalAlignment="Left" Height="603" Margin="12,165,0,0" VerticalAlignment="Top" Width="456" Source="/Assets/Clothes/Clothes1.png"/>
 
         <!--Pivot Control-->
-        <phone:Pivot Title="PUFFER EDITION">
+        <phone:Pivot Title="{Binding Path=LocalizedResources.ApplicationTitle, Source={StaticResource LocalizedStrings}}">
 
             <!--Pivot item one-->
             <phone:PivotItem Header="1">
@@ -68,5 +69,4 @@
 
         </phone:Pivot>
     </Grid>
-    
 </phone:PhoneApplicationPage>

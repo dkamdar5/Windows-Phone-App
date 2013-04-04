@@ -21,3 +21,27 @@ c:\users\dharmesh\documents\visual studio 2012\Projects\Puffer\Puffer\obj\Debug\
 c:\users\dharmesh\documents\visual studio 2012\Projects\Puffer\Puffer\obj\Debug\Color.g.cs
 c:\users\dharmesh\documents\visual studio 2012\Projects\Puffer\Puffer\obj\Debug\Clothing.g.cs
 c:\users\dharmesh\documents\visual studio 2012\Projects\Puffer\Puffer\obj\Debug\Mood.g.cs
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\Puffer.dll
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\Puffer.pdb
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\AppManifest.xaml
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\Puffer_Debug_AnyCPU.xap
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\obj\Debug\App.g.cs
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\obj\Debug\Clothing.g.cs
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\obj\Debug\MainPage.g.cs
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\obj\Debug\Color.g.cs
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\obj\Debug\Mood.g.cs
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\obj\Debug\Puffer.g.resources
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\obj\Debug\Puffer.Resources.AppResources.resources
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\obj\Debug\Puffer.csproj.GenerateResource.Cache
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\obj\Debug\Puffer.dll
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\obj\Debug\Puffer.pdb
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\obj\Debug\XapCacheFile.xml
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\Puffer.dll.CodeAnalysisLog.xml
+C:\Users\Dharmesh\Desktop\Puffer\win-phone-app\Puffer\Puffer\Bin\Debug\Puffer.dll.lastcodeanalysissucceeded

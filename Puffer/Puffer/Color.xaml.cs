@@ -10,9 +10,9 @@ using Microsoft.Phone.Shell;
 
 namespace Puffer
 {
-    public partial class PivotPage1 : PhoneApplicationPage
+    public partial class Color : PhoneApplicationPage
     {
-        public PivotPage1()
+        public Color()
         {
             InitializeComponent();
         }
@@ -86,6 +86,5 @@ namespace Puffer
             setColor("purple");
             NavigateNext();
         }
-
     }
 }
