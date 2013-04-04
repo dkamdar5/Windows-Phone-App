@@ -1,0 +1,74 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Puffer.Clothing"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" Loaded="InitializePuffer">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+
+        <Image x:Name="backgroundPuffer" HorizontalAlignment="Left" Height="603" Margin="12,165,0,0" VerticalAlignment="Top" Width="456" Source="/Assets/Colors/Puffer1.png"/>
+        
+        
+        <!--Pivot Control-->
+        <phone:Pivot Title="PUFFER EDITION">
+
+            <!--Pivot item one-->
+            <phone:PivotItem Header="1">
+                <Image HorizontalAlignment="Left" Height="603" VerticalAlignment="Top" Width="456" Source="/Assets/Clothes/Clothes1.png" Tap="clothing1_Tap"/>
+            </phone:PivotItem>
+
+            <!--Pivot item two-->
+            <phone:PivotItem Header="2">
+                <Image HorizontalAlignment="Left" Height="603" VerticalAlignment="Top" Width="456" Source="/Assets/Clothes/Clothes2.png" Tap="clothing2_Tap"/>
+            </phone:PivotItem>
+
+            <!--Pivot item three-->
+            <phone:PivotItem Header="3">
+                <Image HorizontalAlignment="Left" Height="603" VerticalAlignment="Top" Width="456" Source="/Assets/Clothes/Clothes3.png" Tap="clothing3_Tap"/>
+            </phone:PivotItem>
+
+            <!--Pivot item four-->
+            <phone:PivotItem Header="4">
+                <Image HorizontalAlignment="Left" Height="603" VerticalAlignment="Top" Width="456" Source="/Assets/Clothes/Clothes4.png" Tap="clothing4_Tap"/>
+            </phone:PivotItem>
+
+            <!--Pivot item five-->
+            <phone:PivotItem Header="5">
+                <Image HorizontalAlignment="Left" Height="603" VerticalAlignment="Top" Width="456" Source="/Assets/Clothes/Clothes5.png" Tap="clothing5_Tap"/>
+            </phone:PivotItem>
+
+            <!--Pivot item six-->
+            <phone:PivotItem Header="6">
+                <Image HorizontalAlignment="Left" Height="603" VerticalAlignment="Top" Width="456" Source="/Assets/Clothes/Clothes6.png" Tap="clothing6_Tap"/>
+            </phone:PivotItem>
+
+            <!--Pivot item seven-->
+            <phone:PivotItem Header="7">
+                <Image HorizontalAlignment="Left" Height="603" VerticalAlignment="Top" Width="456" Source="/Assets/Clothes/Clothes7.png" Tap="clothing7_Tap"/>
+            </phone:PivotItem>
+
+            <!--Pivot item eight-->
+            <phone:PivotItem Header="8">
+                <Image HorizontalAlignment="Left" Height="603" VerticalAlignment="Top" Width="456" Source="/Assets/Clothes/Clothes8.png" Tap="clothing8_Tap"/>
+            </phone:PivotItem>
+
+            <!--Pivot item nine-->
+            <phone:PivotItem Header="9">
+                <Image HorizontalAlignment="Left" Height="603" VerticalAlignment="Top" Width="456" Source="/Assets/Clothes/Clothes9.png" Tap="clothing9_Tap"/>
+            </phone:PivotItem>
+
+
+        </phone:Pivot>
+    </Grid>
+    
+</phone:PhoneApplicationPage>
